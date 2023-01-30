@@ -1,5 +1,5 @@
 # Service_Controler
-Postgre SQL'de hizmetlei manuel olarak başlatmanıza yarar.
+Postgre SQL'de hizmetlerini manuel olarak başlatmanıza yarar.
 Harici bir programa ihtiyaç duymaz. Windwos üzerinde servisleri kontorl etmeye yarayan sc komutunu kullanarak durdurma, duraklatma ve başlatma gibi basit kontrolleri bu program üzerinde yapabilirsiniz.
 
 Programa kontrol etmek için tanımladığım 3 servis vardır. bunlar sırasıyla postgresql-x64-14, pgagent-pg14 ve PEMHTTPD'dir.
